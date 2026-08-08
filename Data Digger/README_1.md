@@ -383,7 +383,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 | | |
 |---|---|
-| 👤 **Name** | Your Name Here |
+| 👤 **Name** | KRINA GHORI |
 | 🐬 **Language** | MySQL |
 | 📁 **Project** | Data Digger |
 | 💡 **Purpose** | Relational schema design & SQL querying practice project |
